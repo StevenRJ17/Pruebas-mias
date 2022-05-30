@@ -1,0 +1,7 @@
+cd Desktop
+git clone (link)
+cd (dentro de la carpeta clonada)
+git add -A
+git status
+git commit -m "#"
+git push origin main
